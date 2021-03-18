@@ -23,7 +23,7 @@ class Employee
   end  
 
   def email
-    puts "#{@first_name}#{@last_name}@gmail.com"  
+    puts "#{first_name}#{last_name}@gmail.com"
   end  
 
 
